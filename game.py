@@ -9,8 +9,8 @@ def intro():
 intro()
 
 def encounter1():
-    print("You're walking through the forest and a WILD PIKACHU APPEARS.")
-    print("You flip your hat around and stare at the Pokemon with intense fiery eyes, readying your Pokeball.")
+    input("You're walking through the forest and a WILD PIKACHU APPEARS.")
+    input("You flip your hat around and stare at the Pokemon with intense fiery eyes, readying your Pokeball.")
 encounter1()
 
 def throwBall1():
@@ -22,8 +22,8 @@ def throwBall1():
 throwBall1()
 
 def encounter2():
-    print("After catching your first Pokemon, you encounter a Charmander.")
-    print("You believe that having a fire type Pokemon will definitely come in handy in the future.")
+    input("After catching your first Pokemon, you encounter a Charmander.")
+    input("You believe that having a fire type Pokemon will definitely come in handy in the future.")
 encounter2()
 
 def throwBall2():
@@ -35,14 +35,14 @@ def throwBall2():
 throwBall2()
 
 def encounter3():
-    print("You let Charmander out of its ball and what? Charmander is evolving??")
+    input("You let Charmander out of its ball and what? Charmander is evolving??")
     input("Congratulations! Your Charmander has evolved into Charmeleon! But it doesnt look happy....")
     input("In one big breath, Charmeleon used Flamethrower...on your face....just like in the show....now your face is charred....")
     input("While writhing in pain, you walk into some grass and oh look! You found Burn Heal! Thatll definitely come in handy!")
 encounter3()
 
 def encounter4():
-    print("While walking through the forest you find a Potion.")
+    input("While walking through the forest you find a Potion.")
     input("You put the Potion in your bag, this may be useful in the future.")
     input("While trying to find anymore useful items, you see a very tall shadowy figure float towards you....")
     input("OH NO! ITS MEWTWO!")
@@ -56,22 +56,16 @@ def throwBall3():
         print("You missed and you ran for your life!")
 throwBall3()
 
-
+def encounter5():
+    print("Hope you enjoyed the game! Thanks for watching!")
+encounter5()
 
 
 
 
 
     
-#how to code out if the pokemon escapes ball or is caught
-####### input stops execution of program, goes onto next part of code
-#define random item found
 
-#### F5 to run terminal
-
-#parameters
-
-#to play the game type in python3 then py file
 
 
 
